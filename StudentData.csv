@@ -2,3 +2,4 @@ StudentId,StudentName,StudentClass,Subjects
 10001,Ahmad,1,"['Math', 'English', 'Science']"
 10002,Ali,2,"['Math', 'Chemistry', 'Science']"
 10003,yth,3,"['islamicStudies', 'English', 'Physics']"
+44579,PythonClass,5,"['Maths', 'English', 'Science']"
