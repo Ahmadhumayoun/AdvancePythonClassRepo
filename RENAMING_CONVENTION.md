@@ -8,8 +8,8 @@ This document tracks all file renames and relocations in the repository.
 
 | Category | Old Names | New Names |
 |----------|-----------|------------|
-| **Notebooks** | 10 files | 10 files |
-| **Python Scripts** | 6 files | 6 files |
+| **Notebooks** | 11 files | 11 files |
+| **Python Scripts** | 7 files | 7 files |
 | **CSV Data** | 10 files | 10 files |
 | **Excel Data** | 3 files | 3 files |
 | **Scraped Data** | 5 files | 5 files |
@@ -29,6 +29,7 @@ This document tracks all file renames and relocations in the repository.
 | `DataAnalasis40.ipynb` | `notebooks/data/Data_Cleaning_Analysis_Project.ipynb` |
 | `WEBSCRAPPINGLEARNING.ipynb` | `notebooks/web_scraping/Web_Scraping_With_BeautifulSoup.ipynb` |
 | `ApiScrapping_Calling.ipynb` | `notebooks/web_scraping/API_Data_Fetching.ipynb` |
+| `WebAutomation.ipynb` | `notebooks/web_scraping/Web_Automation_Selenium.ipynb` |
 | `unitconersionBySher.ipynb` | `notebooks/utilities/Unit_Conversion_Calculator.ipynb` |
 
 ---
@@ -43,6 +44,7 @@ This document tracks all file renames and relocations in the repository.
 | `TestingFile.py` | `scripts/numpy/NumPy_Array_Reshape_Test.py` |
 | `FirstCode.py` | `scripts/bank/Bank_Account_Menu_System.py` |
 | `Tasks.py` | `scripts/tasks/Age_Calculator_Task.py` |
+| `Sel.py` | `scripts/web_automation/Selenium_Login_Automation.py` |
 
 ---
 
@@ -109,6 +111,7 @@ root/
 │   ├── numpy/      # NumPy related scripts
 │   ├── quiz_system/    # Quiz system scripts
 │   ├── tasks/      # Task/practice scripts
+│   ├── web_automation/  # Selenium web automation scripts
 │   └── web_scraping/  # Web scraping scripts
 └── scraped_data/   # Raw scraped data
     ├── games/      # Game related data
@@ -119,4 +122,4 @@ root/
 ---
 
 ## Date
-Renamed on: April 6, 2026
+Renamed on: April 8, 2026
